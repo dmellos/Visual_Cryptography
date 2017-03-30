@@ -23,7 +23,6 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 import javax.swing.filechooser.FileFilter;
 
-
 public class DecryptFrame extends JFrame implements ActionListener {
 	private static final long serialVersionUID = 1L;
 	private JPanel pnlAll = new JPanel();
