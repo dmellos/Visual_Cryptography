@@ -5,9 +5,7 @@ import java.awt.image.BufferedImage;
 import java.awt.image.ColorConvertOp;
 import java.io.File;
 import java.security.SecureRandom;
-
 import javax.imageio.ImageIO;
-
 
 public class Crypting {
 	/**
