@@ -24,7 +24,6 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.filechooser.FileFilter;
 
-
 public class KeyGenFrame extends JFrame implements ActionListener {
 	private static final long serialVersionUID = 1L;
 	private JPanel pnlAll = new JPanel();
